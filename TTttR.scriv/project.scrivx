@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScrivenerProject Template="No" Version="1.0" Creator="SCRWIN-1.7.3.0">
     <Binder>
-        <BinderItem ID="13" Created="2014-11-24 00:07:12 +0000" Modified="2014-11-24 00:07:17 +0000" Type="Folder">
-            <Title>Workspace</Title>
+        <BinderItem ID="20" Created="2014-11-27 00:28:50 +0000" Modified="2014-11-27 00:28:53 +0000" Type="Folder">
+            <Title>English</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -16,8 +16,114 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="6" Created="2014-11-23 23:59:16 +0000" Modified="2014-11-23 23:59:20 +0000" Type="Folder">
-                    <Title>Part 1</Title>
+                <BinderItem ID="7" Created="2014-11-23 23:59:21 +0000" Modified="2014-11-27 00:29:04 +0000" Type="Text">
+                    <Title>1</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>777,777</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="18" Created="2014-11-24 06:02:12 +0000" Modified="2014-11-27 00:33:19 +0000" Type="Text">
+                    <Title>2</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1763,1763</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>No</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="21" Created="2014-11-27 01:10:30 +0000" Modified="2014-11-27 01:10:38 +0000" Type="Text">
+                    <Title>3</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1057,1057</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="19" Created="2014-11-27 00:28:24 +0000" Modified="2014-11-27 00:28:27 +0000" Type="Folder">
+            <Title>Korean</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="8" Created="2014-11-23 23:59:40 +0000" Modified="2014-11-27 00:28:40 +0000" Type="Text">
+                    <Title>1</Title>
+                    <MetaData>
+                        <LabelID>3</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>366,366</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="17" Created="2014-11-24 06:02:12 +0000" Modified="2014-11-27 01:10:17 +0000" Type="Text">
+                    <Title>2</Title>
+                    <MetaData>
+                        <LabelID>3</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1817,1817</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>No</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="22" Created="2014-11-27 01:10:45 +0000" Modified="2014-11-27 01:10:46 +0000" Type="Text">
+                    <Title>3</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -30,77 +136,6 @@
                             <FreeformMode>Yes</FreeformMode>
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
-                    <Children>
-                        <BinderItem ID="11" Created="2014-11-24 00:01:09 +0000" Modified="2014-11-24 00:01:11 +0000" Type="Folder">
-                            <Title>1</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                            <CorkboardAndOutliner>
-                                <CorkboardSettings>
-                                    <FreeformMode>Yes</FreeformMode>
-                                </CorkboardSettings>
-                            </CorkboardAndOutliner>
-                            <Children>
-                                <BinderItem ID="7" Created="2014-11-23 23:59:21 +0000" Modified="2014-11-24 00:20:31 +0000" Type="Text">
-                                    <Title>english</Title>
-                                    <MetaData>
-                                        <LabelID>2</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <FileExtension>rtf</FileExtension>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>2155,2155</TextSelection>
-                                        <Target Type="Words">0</Target>
-                                    </TextSettings>
-                                    <CorkboardAndOutliner>
-                                        <CorkboardSettings>
-                                            <FreeformMode>Yes</FreeformMode>
-                                        </CorkboardSettings>
-                                    </CorkboardAndOutliner>
-                                </BinderItem>
-                                <BinderItem ID="8" Created="2014-11-23 23:59:40 +0000" Modified="2014-11-24 00:43:36 +0000" Type="Text">
-                                    <Title>korean</Title>
-                                    <MetaData>
-                                        <LabelID>3</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>923,923</TextSelection>
-                                        <Target Type="Words">0</Target>
-                                    </TextSettings>
-                                    <CorkboardAndOutliner>
-                                        <CorkboardSettings>
-                                            <FreeformMode>Yes</FreeformMode>
-                                        </CorkboardSettings>
-                                    </CorkboardAndOutliner>
-                                </BinderItem>
-                                <BinderItem ID="9" Created="2014-11-24 00:00:53 +0000" Modified="2014-11-24 00:21:15 +0000" Type="Text">
-                                    <Title>questions</Title>
-                                    <MetaData>
-                                        <LabelID>0</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>141,0</TextSelection>
-                                        <Target Type="Words">0</Target>
-                                    </TextSettings>
-                                    <CorkboardAndOutliner>
-                                        <CorkboardSettings>
-                                            <FreeformMode>Yes</FreeformMode>
-                                        </CorkboardSettings>
-                                    </CorkboardAndOutliner>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                    </Children>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -136,95 +171,197 @@
                     <FreeformMode>Yes</FreeformMode>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
-        </BinderItem>
-        <BinderItem ID="4" Created="2014-11-23 23:56:43 +0000" Modified="2014-11-23 23:56:54 +0000" Type="Folder">
-            <Title>English</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-                <NotesTextSelection>0,0</NotesTextSelection>
-            </MetaData>
-            <TextSettings>
-                <Target Type="Words">0</Target>
-            </TextSettings>
-            <CorkboardAndOutliner>
-                <CorkboardSettings>
-                    <FreeformMode>Yes</FreeformMode>
-                </CorkboardSettings>
-            </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="5" Created="2014-11-23 23:56:57 +0000" Modified="2014-11-23 23:57:15 +0000" Type="Text">
+                <BinderItem ID="13" Created="2014-11-24 00:07:12 +0000" Modified="2014-11-24 00:07:17 +0000" Type="Folder">
+                    <Title>Workspace</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="6" Created="2014-11-23 23:59:16 +0000" Modified="2014-11-23 23:59:20 +0000" Type="Folder">
+                            <Title>Part 1</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem ID="11" Created="2014-11-24 00:01:09 +0000" Modified="2014-11-24 00:01:11 +0000" Type="Folder">
+                                    <Title>1</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                    <Children>
+                                        <BinderItem ID="9" Created="2014-11-24 00:00:53 +0000" Modified="2014-11-24 00:21:15 +0000" Type="Text">
+                                            <Title>questions</Title>
+                                            <MetaData>
+                                                <LabelID>0</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>141,141</TextSelection>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                            <CorkboardAndOutliner>
+                                                <CorkboardSettings>
+                                                    <FreeformMode>Yes</FreeformMode>
+                                                </CorkboardSettings>
+                                            </CorkboardAndOutliner>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="3" Created="2014-11-24 06:02:12 +0000" Modified="2014-11-24 06:02:18 +0000" Type="Folder">
+                                    <Title>2</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                    <Children>
+                                        <BinderItem ID="10" Created="2014-11-24 06:02:12 +0000" Modified="2014-11-24 06:02:12 +0000" Type="Text">
+                                            <Title>questions</Title>
+                                            <MetaData>
+                                                <LabelID>0</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                            <CorkboardAndOutliner>
+                                                <CorkboardSettings>
+                                                    <FreeformMode>Yes</FreeformMode>
+                                                </CorkboardSettings>
+                                            </CorkboardAndOutliner>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="12" Created="2014-11-24 00:06:40 +0000" Modified="2014-11-24 00:07:43 +0000" Type="Folder">
+                    <Title>template</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="14" Created="2014-11-24 00:07:45 +0000" Modified="2014-11-24 00:08:02 +0000" Type="Text">
+                            <Title>english</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="15" Created="2014-11-24 00:07:53 +0000" Modified="2014-11-24 00:08:06 +0000" Type="Text">
+                            <Title>korean</Title>
+                            <MetaData>
+                                <LabelID>3</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="16" Created="2014-11-24 00:07:56 +0000" Modified="2014-11-24 00:08:08 +0000" Type="Text">
+                            <Title>questions</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="4" Created="2014-11-23 23:56:43 +0000" Modified="2014-11-23 23:56:54 +0000" Type="Folder">
+                    <Title>English</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="5" Created="2014-11-23 23:56:57 +0000" Modified="2014-11-27 01:10:30 +0000" Type="Text">
                     <Title>part 1</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>731,731</TextSelection>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                    <CorkboardAndOutliner>
-                        <CorkboardSettings>
-                            <FreeformMode>Yes</FreeformMode>
-                        </CorkboardSettings>
-                    </CorkboardAndOutliner>
-                </BinderItem>
-            </Children>
-        </BinderItem>
-        <BinderItem ID="12" Created="2014-11-24 00:06:40 +0000" Modified="2014-11-24 00:07:43 +0000" Type="Folder">
-            <Title>template</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-                <NotesTextSelection>0,0</NotesTextSelection>
-            </MetaData>
-            <TextSettings>
-                <Target Type="Words">0</Target>
-            </TextSettings>
-            <CorkboardAndOutliner>
-                <CorkboardSettings>
-                    <FreeformMode>Yes</FreeformMode>
-                </CorkboardSettings>
-            </CorkboardAndOutliner>
-            <Children>
-                <BinderItem ID="14" Created="2014-11-24 00:07:45 +0000" Modified="2014-11-24 00:08:02 +0000" Type="Text">
-                    <Title>english</Title>
-                    <MetaData>
-                        <LabelID>2</LabelID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                    <CorkboardAndOutliner>
-                        <CorkboardSettings>
-                            <FreeformMode>Yes</FreeformMode>
-                        </CorkboardSettings>
-                    </CorkboardAndOutliner>
-                </BinderItem>
-                <BinderItem ID="15" Created="2014-11-24 00:07:53 +0000" Modified="2014-11-24 00:08:06 +0000" Type="Text">
-                    <Title>korean</Title>
-                    <MetaData>
-                        <LabelID>3</LabelID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                    <CorkboardAndOutliner>
-                        <CorkboardSettings>
-                            <FreeformMode>Yes</FreeformMode>
-                        </CorkboardSettings>
-                    </CorkboardAndOutliner>
-                </BinderItem>
-                <BinderItem ID="16" Created="2014-11-24 00:07:56 +0000" Modified="2014-11-24 00:08:08 +0000" Type="Text">
-                    <Title>questions</Title>
-                    <MetaData>
-                        <LabelID>0</LabelID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
+                        <TextSelection>3653,3653</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
@@ -273,5 +410,5 @@
         <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
     </ProjectTargets>
-    <PrintSettings PaperType="A4" LeftMargin="9.60947" RightMargin="9.60947" TopMargin="8.39057" BottomMargin="14.2866" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+    <PrintSettings PaperType="A4" LeftMargin="9.60947" RightMargin="9.60947" TopMargin="8.39057" BottomMargin="14.2583" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
 </ScrivenerProject>
